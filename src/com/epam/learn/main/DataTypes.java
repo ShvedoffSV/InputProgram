@@ -4,7 +4,7 @@ public class DataTypes {
     public static void main(String[] y)
             {
                 int int_variable = 10;
-                float float_variable= (float) 10.50;
+                float float_variable= 10.50f ;
                 char character_variable = 78;
                 char character_variable_char = 'a';
                 boolean boolean_variable = false;
